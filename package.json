@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-unit-galleon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Galleon class: a naval unit type that carries other units.",
   "repository": "git@github.com:civ-clone/base-unit-galleon.git",
   "keywords": [
