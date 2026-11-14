@@ -13,7 +13,8 @@
   "files": [
     "Galleon.js",
     "Galleon.d.ts",
-    "Galleon.js.map"
+    "Galleon.js.map",
+    "Galleon.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
